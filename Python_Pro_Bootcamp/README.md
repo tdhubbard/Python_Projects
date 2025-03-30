@@ -1,4 +1,4 @@
-# 100 Days of Code: Pythong Pro Bootcamp
+# 100 Days of Code: Python Pro Bootcamp
 ## Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
 
 At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. Here's why:
