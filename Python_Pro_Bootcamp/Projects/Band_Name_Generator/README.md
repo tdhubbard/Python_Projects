@@ -1,5 +1,5 @@
 # 100 Days of Code: Python Pro Bootcamp - Day 1
-## Taugh by Dr. Angelu YU
+## Taugh by Dr. Angelu Yu
 
 In Day 1, skills learned:
 1. String Manipulation
