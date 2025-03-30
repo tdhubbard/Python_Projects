@@ -11,11 +11,7 @@ This course doesn't cut any corners, there are beautiful animated explanation vi
 
 The curriculum was developed over a period of 2 years, with comprehensive student testing and feedback.
 
-We've taught over 600,000 students how to code and many have gone on to change their lives by becoming professional developers or starting their own tech startup.
-
-You'll save yourself over $12,000 by enrolling, and still get access to the same teaching materials and learn from the same instructor and curriculum as our in-person programming Bootcamp.
-
-The course is constantly updated with new content, with new projects and modules determined by students - that's you!
+The course is constantly updated with new content, with new projects and modules determined by students.
 
 
 
@@ -100,6 +96,7 @@ Web Design
 Deployment with GitHub Pages, Heroku and GUnicorn
 
 and much much more!
+
 
 By the end of this course, you will be fluently programming in Python and you'll be so good at Python that you can get a job or use the language professionally.
 
